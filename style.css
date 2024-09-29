@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Gabarito", system-ui;
+}
+
+.section1 {
+    background-color: pink; 
+    padding: 10px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+   
+}
+
+.section1__title {
+    text-align: center;
+    
+}
+
+.section2 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 80px;
+    margin-top: 30px;
+}
+
+.section2__container {
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.section2__container-plans {
+    text-align: center;
+}
+
+.section2__container-benefits {
+    border: solid;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.section2__container-benefits p{
+
+    padding: 5px;
+}
