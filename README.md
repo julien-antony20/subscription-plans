@@ -2,6 +2,8 @@
 
 This is a simple HTML page that displays three different subscription plans: Free, Standard, and Premium. Each plan has its own set of benefits, which are clearly listed under each plan.
 
+[https://julien-antony20.github.io/subscription-plans/]
+
 ## Features
 
 - Clean and modern design
